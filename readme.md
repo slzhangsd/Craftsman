@@ -5,13 +5,10 @@ Welcome to the Craftsman Project. Below are some descriptions of the source code
 	
 ## Training & matching：
 * Command：python main\_train.py -train\_log\_path training.log -out\_seq_path output.seq  -templates output.template
-* Parameter：
+* Parameter description：
 	* -train\_log\_path： the path of historical dataset file
 	* -out\_seq_path：the path of template sequence file
 	* -templates：the file of templates
 	
 ## Dataset
-* You can use the BGL dataset, which is in the "2kBGL.log" file, to get famaliar with the project.
-
- 
- 
+* You can apply the BGL dataset, which is in the "2kBGL.log" file, to get famaliar with the project.
