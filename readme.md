@@ -10,6 +10,8 @@ Welcome to the Craftsman Project. Below are some descriptions of the source code
 	* -out\_seq_path：the path of template sequence file
 	* -templates：the file of templates
 	
+## Dataset
+* You can use the BGL dataset, which is in the "2kBGL.log" file, to get famaliar with the project.
 
  
  
